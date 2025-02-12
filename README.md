@@ -11,4 +11,4 @@
 * eğer sistem uygulamaları halen cihazınızda gözüukuyor ise cihazınızı yeninden başlatın.
 
 ### Debloat Script'ini kurun:
-* Script dosyasını [Buraya]([https://github.com/j-chcode/OMIX-V11.4-DEBLOAT/releases/](https://github.com/j-chcode/OMIX-V11.4-DEBLOAT/releases/download/v11.4/omix_debloat.bat) tıklayarak indirebilirsiniz
+* Script dosyasını [Buraya]([https://github.com/j-chcode/OMIX-V11.4-DEBLOAT/releases/](https://github.com/j-chcode/OMIX-V11.4-DEBLOAT/releases/download/v11.4/omix_debloat.bat)) tıklayarak indirebilirsiniz
