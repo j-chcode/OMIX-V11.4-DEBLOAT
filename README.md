@@ -12,3 +12,5 @@
 
 ### Debloat Script'ini kurun:
 * Script dosyasını [Buraya](https://github.com/j-chcode/OMIX-V11.4-DEBLOAT/releases/download/v11.4/omix_debloat.bat) tıklayarak indirebilirsiniz
+
+![image](https://github.com/user-attachments/assets/1ecbac24-0c76-4770-aefe-85c57e4465ed)
